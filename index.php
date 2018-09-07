@@ -159,7 +159,7 @@
                       <i class="ni ni-spaceship"></i>
                     </div>
                     <h6 class="text-info text-uppercase">BV Research</h6>
-                    <p class="description mt-3">Learn the fundamentals of startup research, modeled from due-diligence methods from venture capital firms.</p>
+                    <p class="description mt-3">Professional consultation for startups and venture capitalists in market analysis, product testing, and tech research</p>
                     <div>
                       <span class="badge badge-pill badge-info">Startups</span>
                       <span class="badge badge-pill badge-info">VC</span>
@@ -192,7 +192,7 @@
                       <i class="fa fa-random"></i>
                     </div>
                     <h6 class="text-primary text-uppercase">BV Connect</h6>
-                    <p class="description mt-3">Build partnerships, attend confrences, and learn strategies of VC-based networking.</p>
+                    <p class="description mt-3">Putting Bruin Ventures's best foot forward with startups, venture capital firms, and at conferences</p>
                     <div>
                       <span class="badge badge-pill badge-primary">networking</span>
                       <span class="badge badge-pill badge-primary">marketing</span>
