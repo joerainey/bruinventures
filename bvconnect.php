@@ -38,7 +38,7 @@
                 <h1 class="display-3  text-white">
                   BV CONNECT
                 </h1>
-                <p class="lead text-white ">Build partnerships, attend confrences, and learn strategies of VC-based networking.</p>
+                <p class="lead text-white ">BVConnect is Bruin Ventures's main outreach program focused on connecting the qualified members of Bruin Ventures with startups, venture capitalists, and future employers. Bruin Ventures prides itself in its ability to engage our talented students with didactic projects for the benefit of both parties in the startup space</p>
                 <div class="btn-wrapper">
                   <a href="#" class="btn btn-info btn-icon mb-0 mb-sm-0">
                     <span class="btn-inner--icon"><i class="fa fa-code"></i></span>
